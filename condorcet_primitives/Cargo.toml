@@ -1,0 +1,8 @@
+[package]
+name = "condorcet_primitives"
+version = "0.0.1"
+publish = false
+authors = ["John Arnold <iohannes.eduardus.arnold+code@gmail.com>"]
+license = "MIT"
+
+[dependencies]
